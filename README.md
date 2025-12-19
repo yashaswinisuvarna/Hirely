@@ -60,7 +60,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/yashaswinisuvarna/Hirely
 cd ai-resume-analyzer
 ```
 
@@ -80,5 +80,5 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-#Hirely
+
 # Hirely
